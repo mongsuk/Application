@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	 <string name="service_start_arguments_label">Sample Service Start Arguments
+    </string>
+
+    <string name="activity_service_start_arguments_controller">App/Service/Service
+        Start Arguments Controller
+    </string>
+    <string name="service_start_arguments_controller">This demonstrates how
+        service can be started with arguments, and run until all arguments are
+        processed.
+    </string>
+    <string name="start1_service">Start \"One\" no redeliver</string>
+    <string name="start2_service">Start \"Two\" no redeliver</string>
+    <string name="start3_service">Start \"Three\" w/redeliver</string>
+    <string name="startfail_service">Start failed delivery</string>
+    <string name="service_created">Service created.</string>
+    <string name="service_destroyed">Service destroyed.</string>
+    <string name="kill_process">Kill Process</string>
+</resources>
